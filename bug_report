@@ -1,1 +1,27 @@
+ISSUE ID: 5
 
+ISSUE TITLE: Top and bottom white dash line not visible for size H:546
+
+STATUS: New
+
+SEVERITY: High
+
+ISSUE TYPE: Functional
+
+FREQUENCY: Every Time
+
+ENVIRONMENT: Samsung Galaxy s10e/ Android 12
+
+ACTION PERFORMED: 
+
+1. Open app
+2. Tap the "Add Widget" button
+3. Long Tap on the widget, start resizing
+
+EXPECTED RESULT: When the widget is resized, the white dash lines along the outline are displayed
+
+ACTUAL RESULT: When the widget is resized to H:546, the white dashed lines at the top and bottom are not displayed
+
+ADDITIONAL ENVIRONMENT INFO: Widget on Home screen 4x5
+
+ATTACHMENTS: Widget_size_H_546.png
